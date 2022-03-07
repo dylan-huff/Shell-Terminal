@@ -1,0 +1,209 @@
+ls
+ls
+ls
+who
+head Dick.txt
+history
+wc Dick.txt >> 1.txt
+ls -l
+ls -a
+ls -lah
+ls -la
+ls -l
+ls
+ls -a
+mkdir test
+cd cmd_pkg
+cd .
+cd Notes
+cd a1
+cd Notes
+cd
+ls -lah
+ls
+cd
+cd
+cd Notes
+cd Notes
+cd cmd_pkg
+cd cmd_pkg
+ls
+cd .
+cd .
+cd cmd_pkg
+cd .
+ls -lah
+c
+cd cmd_pkg
+cd .
+cd ~
+cd ~runner
+cd .\
+cd .
+cd .
+cd ~
+cd ~Notes
+cd .
+cd ~
+ls -lah cmd_pkg
+ls Cat.py
+ls -lah Cat.py
+ls -lah
+ls -lh
+ls -lah
+ls -l
+ls -a
+ls -lah
+ls -a
+ls -a
+ls -a
+ls -l
+ls 
+ls -lah
+ls -a cmd_pkg
+ls -lah cmd_pkg
+ls -l cmd_pkg
+pwd
+ls -l cmd_pkg
+ls -lah
+ls -l
+ls -a
+ls -lah
+ls -lah cmd_pkg
+ls -a
+ls -a
+ls -lah
+ls -lah cmd_pkg
+cd cmd_pkg
+ls -lah cmd_pkg
+ls cmd_pkg
+cd..
+cd cmd_pkg
+cd ..
+ls -lah cmd_pkg
+ls cmd_pkg
+ls -a cmd_pkg
+ls 
+ls
+ls -a
+ls -a cmd_pkg
+wc Dick.txt >> 3.txt
+wc Dick.txt >> 1.txt
+mkdir 1.txt
+wc Dick.txt >> 1.txt
+wc Dick.txt >> 1.txt
+cd ~
+cd
+cd
+cd .
+cd ~
+cd .
+cd ..
+cd Shell-Terminal
+cd /Shell-Terminal
+cd ..
+cd cmd_pkg
+cd cmd_pkg
+mkdir test
+cd test
+cd..
+wc Dick.txt >> 1.txt
+wc Dick.txt >> 1.txt
+ls -lah
+ls -lah
+ls -lah
+mkdir bananas
+mkdir 1
+cd .
+cd cmd_pkgg
+cd cmd_pkg
+cd ..
+cd ..
+cd cmd_pkg
+cd Shell-Terminal
+cd /Shell-Terminal
+ls cmd_pkg
+cd cmd_pkg
+ls
+pwd
+pwd
+cd ..
+pwd
+mkdir bananas
+cd bananas
+mv output1.txt banans
+mv output1.txt bananas
+cp history.log output1.txt
+cat output1.txt
+less Dick.txt
+head -n 25 Dick.txt
+tail -n 25 Dick.txt
+grep -l donation Dick.txt
+wc -w Dick.txt
+history
+ls -l
+chmod 000 bananas
+ls -l
+chmod 777 bananas
+sort output1.txt
+grep donation Dick.txt | wc
+grep -l donation Dick.txt
+grep -l donation Dick.txt
+grep -l donation Dick.txt
+grep -l donation Dick.txt
+grep -l donation Dick.txt
+grep donation Dick.txt
+grep -l donation Dick.txt
+grep -l donation Dick.txt
+grep -l donation Dick.txt
+grep -l donation Dick.txt
+grep -l donation Dick.txt
+grep -l donation Dick.txt output1.txt
+! 20
+! 20
+! 45
+!20
+! 20
+! 20
+ls
+! 40
+! 20
+! 1
+!1
+!
+! 20
+! 20
+! 20
+! 20
+! 20
+! 20
+! 20
+! 20
+!30
+! 30
+! 15
+! 17
+! 30
+mv output1.txt Notes
+mkdir bananas
+mv output1.txt bananas
+grep -l donations Dick.txt
+grep -l donations Dick.txt
+grep -l donations Dick.txt
+grep -l donations Dick.txt
+grep -l donations Dick.txt output1.txt
+grep -l donations Dick.txt output1.txt
+grep -l donations Dick.txt output1.txt
+ls -lah
+ls -a cmd_pkg
+ls -l
+ls -l cmd_pkg
+mkdir bananas
+cd bananas
+cd ..
+pwd
+cd bananas
+pwd
+cd ..
+mv output1.txt bananas
+cp history.log output2.txt
