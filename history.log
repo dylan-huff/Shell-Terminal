@@ -254,3 +254,6 @@ ls -l
 !21
 ! 21
 history
+cat Dick.txt
+ls
+ls
